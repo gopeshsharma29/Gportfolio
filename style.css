@@ -581,12 +581,10 @@ header.sticky{
 		width: 100px
 	}
 	.menu-icon{
-		margin-left: 70px;
+		padding-right: 89px;
 	}
 	.top-btn{
-		margin-right: 0px;
-		margin-left: 60px;
-		padding: 9px 13px;
+		margin-right: 10px;
 	}
 	.sticky .top-btn{
 		margin-right: 15px;
