@@ -581,10 +581,12 @@ header.sticky{
 		width: 100px
 	}
 	.menu-icon{
-		padding-right: 89px;
+		margin-left: 70px;
 	}
 	.top-btn{
-		margin-right: 10px;
+		margin-right: 0px;
+		margin-left: 60px;
+		padding: 9px 13px;
 	}
 	.sticky .top-btn{
 		margin-right: 15px;
@@ -645,10 +647,12 @@ header.sticky{
 		width: 100px
 	}
 	.menu-icon{
-		padding-right: 89px;
+		margin-left: 70px;
 	}
 	.top-btn{
-		margin-right: 10px;
+		margin-right: 0px;
+		margin-left: 60px;
+		padding: 9px 13px;
 	}
 	.sticky .top-btn{
 		margin-right: 15px;
